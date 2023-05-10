@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Daniel", "Villa", , "dvilla@unal.edu.co", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: Paquete creado para el ensayo en la creación de paquetes, este es de uso exclusivo.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
